@@ -1,0 +1,20 @@
+PODS:
+  - ExpandableLabel (0.5.2)
+  - ReadMoreTextView (3.0.1)
+
+DEPENDENCIES:
+  - ExpandableLabel
+  - ReadMoreTextView
+
+SPEC REPOS:
+  trunk:
+    - ExpandableLabel
+    - ReadMoreTextView
+
+SPEC CHECKSUMS:
+  ExpandableLabel: c2fab6d27860c572d67134b30522a5917746171d
+  ReadMoreTextView: 19147adf93abce6d7271e14031a00303fe28720d
+
+PODFILE CHECKSUM: 8e7e96054090fadad38c0f23d55f119cfe771f36
+
+COCOAPODS: 1.10.1

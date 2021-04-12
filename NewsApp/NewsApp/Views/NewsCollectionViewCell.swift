@@ -7,7 +7,6 @@
 
 import UIKit
 import SnapKit
-import ReadMoreTextView
 import ExpandableLabel
 
 class NewsCollectionViewCell: UICollectionViewCell {
